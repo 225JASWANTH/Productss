@@ -40,7 +40,7 @@
 </style>
 </head>
 <body>
-
+           <-- back to home -->
 <div class="card">
     <h2><i class="bi bi-check-circle-fill me-2"></i>Updated Successfully!</h2>
     <a href="Home.jsp" class="btn btn-primary btn-home">
